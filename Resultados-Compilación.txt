@@ -1,0 +1,6 @@
+﻿Compilación iniciada a las 00:19...
+1>------ Operación Compilar iniciada: Proyecto: WebApplication3, configuración: Debug Any CPU ------
+1>  Omitiendo analizadores para acelerar la compilación. Puede ejecutar los comandos "Build" o "Rebuild" para ejecutar los analizadores.
+1>  WebApplication3 -> C:\Users\crisa\OneDrive\Documentos\WebApplication3\WebApplication3\bin\Debug\net10.0\WebApplication3.dll
+========== Compilación: 1 correcto, 0 erróneo, 0 actualizado, 0 omitido ==========
+========== Compilar completado a las 00:19 y tardó 01.996 segundos ==========
